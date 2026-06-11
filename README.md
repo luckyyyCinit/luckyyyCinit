@@ -1,4 +1,6 @@
-# Hi, I'm Cen
+# Hi, I'm Cen Chang
+
+I go by any combination of Cen, CC, and Clara.
 
 `lucky × init` — optimistic builder.
 
