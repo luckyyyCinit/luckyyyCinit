@@ -1,4 +1,4 @@
-# Hi, I'm Cen Chang
+# Hi, I'm Cen C.
 
 I go by any combination of Cen, CC, and Clara.
 
